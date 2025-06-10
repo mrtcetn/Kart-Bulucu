@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <title>Kart Bulucu</title>
+</head>
+<body>
+  <h1>Kart Bulucuya Hoş Geldin!</h1>
+  <p>Bu, kart tahmini yapan basit bir uygulamadır.</p>
+</body>
+</html>
